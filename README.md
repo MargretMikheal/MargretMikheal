@@ -1,4 +1,4 @@
-# Margret Mikheal 👋
+# Margret Mikheal 
 **.NET Developer | Backend Enthusiast**
 
 ---

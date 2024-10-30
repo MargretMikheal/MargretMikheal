@@ -19,7 +19,7 @@ I have experience in key areas of **.NET development**:
 
 
 ### 🌐 Connect with Me
-- LinkedIn: [Margret Mikheal](https://www.linkedin.com/in/margret-mikheal)
+- LinkedIn: [Margret Mikheal](https://www.linkedin.com/in/margret-mikhael/)
 
 ---
 
